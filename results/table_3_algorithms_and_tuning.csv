@@ -1,0 +1,5 @@
+Algorithm,Family,Search,Search Space,Configurations,Inner CV,Selection Metric
+Logistic Regression,Linear / probabilistic,GridSearchCV,"C ∈ {0.1, 1, 10}",3,2-fold,Macro-F1
+k-NN,Instance-based,GridSearchCV,"n_neighbors ∈ {5, 11, 21}",3,2-fold,Macro-F1
+Decision Tree,Tree-based,GridSearchCV,"max_depth ∈ {10, 20, None}",3,2-fold,Macro-F1
+RBF SVM,Kernel,GridSearchCV,"C ∈ {1, 10, 100}; gamma='scale'",3,2-fold,Macro-F1

@@ -1,5 +1,0 @@
-Algorithm,Macro-F1,Balanced Accuracy,Cohen's Kappa,Mean Fit Time (s),Mean Prediction Time (s)
-RBF SVM,0.9415 ± 0.0046,0.9401 ± 0.0046,0.9158 ± 0.0066,5.605,0.45237
-Logistic Regression,0.9358 ± 0.0040,0.9347 ± 0.0043,0.9082 ± 0.0066,4.169,0.00601
-k-NN,0.9354 ± 0.0036,0.9334 ± 0.0038,0.9077 ± 0.0055,1.8,0.25684
-Decision Tree,0.9189 ± 0.0038,0.9177 ± 0.0040,0.8869 ± 0.0054,1.54,0.00225
